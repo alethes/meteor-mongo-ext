@@ -1,4 +1,4 @@
-mongo-ext
+meteor-mongo-ext
 =======================
 
 Meteor Mongo extensions including:
