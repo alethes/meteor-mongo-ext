@@ -19,6 +19,3 @@ if Meteor.isClient
 
     mapReduce: (map, reduce, options, callback)->
       Meteor.apply "_callMapReduce", [@_name, map, reduce, options], {wait:false, onResultReceived: callback}
-
-    std: ->
-        @map
