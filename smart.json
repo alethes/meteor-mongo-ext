@@ -1,0 +1,9 @@
+{
+  "name": "mongo-ext",
+  "description": "MongoDB extensions",
+  "homepage": "https://github.com/alethes/meteor-mongo-ext.git",
+  "author": "Alethes (http://cloudama.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/alethes/meteor-mongo-ext.git",
+  "packages": {}
+}
